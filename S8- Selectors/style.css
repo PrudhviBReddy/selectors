@@ -1,0 +1,90 @@
+#mainHeading{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 4rem;
+    box-shadow: 10px 10px 10px gray;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 10px gray;
+    background-color: brown;
+}
+
+p{
+    
+    display:inline-block;
+    width: 1100px;
+    height: 200px;
+    text-align: justify;
+}
+
+#mainBody{
+    background-color: lightblue;
+}
+
+.CSKPlayer{
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+
+.DCPlayer{
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+
+.GTPlayer{
+    background-color: lightcoral;
+    border-radius: 20px;
+}
+
+.KKRPlayer{
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+.LSGPlayer{
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+
+.MIPlayer{
+    background-color: lightsteelblue;
+    border-radius: 20px;
+}
+
+.PBKSPlayer{
+    background-color: limegreen;
+    border-radius: 20px;
+}
+
+.RRPlayer{
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+.RCBPlayer{
+    background-color: lightcyan;
+    border-radius: 20px;
+}
+
+.SRHPlayer{
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+#mainHeading{
+    text-align: center;
+    background-color: brown;
+}
+
+#CSKHead{
+    color: yellowgreen;
+}
+
+h2{
+   color: brown;
+}
